@@ -61,7 +61,7 @@ In light of the above, you can see the result of my improvement compared to the 
 ## Original runtime
 ![](photos/picture2.png)
 
-## Built With
+## Built with
 
 - C
 ## Author
@@ -69,8 +69,7 @@ In light of the above, you can see the result of my improvement compared to the 
 **Etai Wilentzik**
 
 - [Profile](https://github.com/EtaiWilentzik )
-- [Email](mailto:etaiwil2000@gmail.com?subject=Hi "Hi!")
-- [LinkedIn](https://www.linkedin.com/in/etai-wilentzik-b5a106212/ "Welcome")
+- [LinkedIn]( https://www.linkedin.com/in/etai-wilentzik/ "Welcome")
 
 ## Support 🤝
 
